@@ -18,7 +18,7 @@
 
 ###
 
-<h3 align="left">🛠 기술 스택</h3>
+<h3 align="left">🛠 Skills</h3>
 
 ###
 
@@ -55,3 +55,12 @@
 </div>
 
 ###
+
+<h3 align="left">🧸 Contact me </h2>
+
+###
+
+ <div style="text-align: left;">
+   <a href=https://blog.naver.com/ipia99> <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=https://blog.naver.com/ipia99"> </a>
+   <a href=mailto:kanjang96@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kanjang96@gmail.com"> </a>
+ </div>
