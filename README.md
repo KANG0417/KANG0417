@@ -14,15 +14,17 @@
 
 ###
 
-<p align="left">세상에 편리함을 주는 서비스를 개발하는 프론트엔드 개발자입니다.<br><br>보다 섬세한 세상을 만들기 위해 오늘도 정진합니다.</p>
+<p align="center">세상에 편리함을 주는 서비스를 개발하는 프론트엔드 개발자입니다.<br><br>보다 섬세한 세상을 만들기 위해 오늘도 정진합니다.</p>
 
 ###
 
-<h3 align="left">🛠 Skills</h3>
+<br>
+
+<h3 align="center">🛠 Skills</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -60,11 +62,11 @@
 
 ###
 
-<h3 align="left">🧸 Contact me </h2>
+<h3 align="center">🧸 Contact me </h2>
 
 ###
 
- <div style="text-align: left;">
+ <div align="center">
    <a href=https://blog.naver.com/ipia99><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=[[https://blog.naver.com/ipia99]()"></a>
    <a href=mailto:kanjang96@gmail.com><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kanjang96@gmail.com"></a>
  </div>
